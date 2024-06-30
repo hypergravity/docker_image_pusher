@@ -3,3 +3,4 @@ ubuntu:24.04
 jenkins/jenkins
 jetbrains/teamcity-server
 jetbrains/teamcity-agent
+postgres:15
