@@ -1,6 +1,9 @@
-nginx
+nginx:latest
+ubuntu:22.04
 ubuntu:24.04
-jenkins/jenkins
-jetbrains/teamcity-server
-jetbrains/teamcity-agent
+jenkins/jenkins:latest
+jetbrains/teamcity-server:latest
+jetbrains/teamcity-agent:latest
 postgres:15
+sonarsource/sonar-scanner-cli:latest
+sonarqube:lts-community
