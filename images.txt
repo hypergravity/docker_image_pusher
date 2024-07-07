@@ -4,6 +4,7 @@ ubuntu:24.04
 jenkins/jenkins:latest
 jetbrains/teamcity-server:latest
 jetbrains/teamcity-agent:latest
+postgres:12
 postgres:15
 sonarsource/sonar-scanner-cli:latest
 sonarqube:lts-community
