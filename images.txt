@@ -11,3 +11,6 @@ sonarqube:lts-community
 
 snowdreamtech/frps
 snowdreamtech/frpc
+
+python:3.12
+python:3.12-slim
