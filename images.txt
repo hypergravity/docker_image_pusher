@@ -8,3 +8,6 @@ postgres:12
 postgres:15
 sonarsource/sonar-scanner-cli:latest
 sonarqube:lts-community
+
+snowdreamtech/frps
+snowdreamtech/frpc
