@@ -4,6 +4,8 @@ ubuntu:20.04
 ubuntu:22.04
 ubuntu:24.04
 
+continuumio/miniconda3
+
 python:3.12
 python:3.12-slim
 
