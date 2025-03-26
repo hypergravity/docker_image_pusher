@@ -1,20 +1,24 @@
-nginx:latest
+debian:11
+debian:12
 ubuntu:20.04
 ubuntu:22.04
 ubuntu:24.04
-jenkins/jenkins:latest
-jetbrains/teamcity-server:latest
-jetbrains/teamcity-agent:latest
-postgres:12
-postgres:15
-sonarsource/sonar-scanner-cli:latest
-sonarqube:lts-community
-
-snowdreamtech/frps
-snowdreamtech/frpc
 
 python:3.12
 python:3.12-slim
+
+jenkins/jenkins:latest
+jetbrains/teamcity-server:latest
+jetbrains/teamcity-agent:latest
+sonarsource/sonar-scanner-cli:latest
+sonarqube:lts-community
+
+nginx:latest
+postgres:12
+postgres:15
+
+snowdreamtech/frps
+snowdreamtech/frpc
 
 nextcloud
 mariadb:10.6
