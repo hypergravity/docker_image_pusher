@@ -24,3 +24,5 @@ snowdreamtech/frpc
 
 nextcloud
 mariadb:10.6
+
+registry.goharbor.io/harbor-cli/harbor-cli
